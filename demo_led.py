@@ -1,5 +1,5 @@
 # Rachel Lewis 
-# CS Project
+# CS 453 Project
 # Fall 2023
 # Testing LEDs. This demo will change the center leds to different colors and intensities.
 

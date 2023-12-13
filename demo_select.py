@@ -1,5 +1,5 @@
 # Rachel Lewis 
-# CS Project
+# CS 453 Project
 # Fall 2023
 # This demo tests the terminal interface for providing commands to the roomba on the fly.
 # Be careful as this is a loop. If you give the roomba a command to drive, it will do so until a new drive command is given or the

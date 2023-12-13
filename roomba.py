@@ -1,5 +1,5 @@
 # Rachel Lewis 
-# CS Project
+# CS 453 Project
 # Fall 2023
 # This file serves as the main project file. It contains the primary functionality for the Roomba commands.
 

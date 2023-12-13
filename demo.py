@@ -1,5 +1,5 @@
 # Rachel Lewis 
-# CS Project
+# CS 453 Project
 # Fall 2023
 # This demo tests each command created in the Roomba class. It plays the Mario Invincibility theme.
 # While playing the song, the roomba will drive in a circle and change the center led lights.
