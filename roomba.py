@@ -1,6 +1,7 @@
 # Rachel Lewis 
 # CS Project
 # Fall 2023
+# This file serves as the main project file. It contains the primary functionality for the Roomba commands.
 
 import serial, time
 from datetime import datetime

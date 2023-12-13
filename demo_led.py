@@ -1,7 +1,7 @@
 # Rachel Lewis 
 # CS Project
 # Fall 2023
-# Testing LEDs
+# Testing LEDs. This demo will change the center leds to different colors and intensities.
 
 import time
 from roomba import Roomba
